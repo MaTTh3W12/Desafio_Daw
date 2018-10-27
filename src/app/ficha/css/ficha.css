@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+
+@media (min-width:240px) and (max-width: 768px) {
+.Price{
+    width: 100% !important;
+    }
+    .ProductoImg{
+        width: 100% !important;
+        max-height: auto !important;
+    }
+}
+.Price{
+    text-align:center;
+    color: white;
+    font-weight:bold;
+    font-size: 16px;
+    background-color: #1F74BE;
+    font-family: Lato;
+    width: 35%;
+}
+#BtnBack{
+    font-family:Lato;
+}
+#Tipe{
+    font-weight:bold;
+    font-size:22px;
+}
+.btn-container{
+    margin-top: 75px;
+}
+.Link{
+    font-family:Lato;
+    font-weight:bold;
+    font-size:20px;
+}
+
+p{
+    font-family:Lato;
+}
+.ProductoImg{
+    width: 100% !important;
+    max-height: 600px !important;
+}

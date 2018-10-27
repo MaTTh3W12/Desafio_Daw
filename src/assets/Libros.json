@@ -1,0 +1,137 @@
+[
+    {
+      "id": "1",
+      "titulo": "El Juego de Ender",
+      "autor": "Orson Scott Card",
+      "editorial": "Ediciones B / Zeta",
+      "shortdescrip":"La Tierra está amenazada por una especie extraterrestre de insectos que pretende destruir la humanidad",
+      "descripcion": "La Tierra está amenazada por una especie extraterrestre de insectos que pretende destruir la humanidad. Para vencerlos se precisa la intervención de un genio militar, por lo cual se permite el nacimiento de Ender, tercer hijo de una pareja en un mundo que limita a dos el número de descendientes. Ender se entrenará en una estación espacial, superará a sus rivales y se convertirá en la persona capaz de dirigir las flotas terrestres contra los insectos de otros mundos.",
+      "img": "./img/Ender.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "I robot",
+      "autor": "Isaac Asimov",
+      "editorial": "Edhasa",
+      "shortdescrip":"Los robots de Isaac Asimov son máquinas capaces de llevar a cabo muy diversas tareas, y que a menudo se plantean a sí mismos problemas de 'conducta humana'.",
+      "descripcion": "Los robots de Isaac Asimov son máquinas capaces de llevar a cabo muy diversas tareas, y que a menudo se plantean a sí mismos problemas de 'conducta humana'. Pero estas cuestiones se resuelven en Yo, robot en el ámbito de las tres leyes fundamentales de la robótica, concebidas por Asimov, y que no dejan de proponer extraordinarias paradojas que a veces se explican por errores de funcionamiento y otras por la creciente complejidad de los 'programas'. Las paradojas que se plantean en estos relatos futuristas no son sólo ingeniosos ejercicios intelectuales sino sobre todo una indagación sobre la situación del hombre actual en relación con los avances tecnológicos y con la experiencia del tiempo.",
+      "img": "img//Irobot.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "La guerra sin fin nº 33",
+      "autor": "Diversos Autores",
+      "editorial": "Minotauro",
+      "shortdescrip":"La visión del Emperador de una humanidad en su cénit se ha desmoronado. La Gran Cruzada ya no es sino un recuerdo lejano.",
+      "descripcion": "La visión del Emperador de una humanidad en su cénit se ha desmoronado. La Gran Cruzada ya no es sino un recuerdo lejano. El sueño de la Unidad se ha desvanecido. Pero ahora que la rebelión de Horus se extiende a todos los rincones del Imperio y la guerra devora mundos y sistemas nuevos casi a diario, hay quienes se preguntan: ¿acaso las señales estaban ante nuestros ojos desde el principio?",
+      "img": "img//sinfin.jpg"
+    },
+    {
+      "id":"4",
+      "titulo": "Nueva York 2140",
+      "autor": "Kim Stanley Robinson",
+      "editorial": "Minotauro",
+      "shortdescrip": "Kim Stanley Robinson dibuja el futuro de una de las ciudades más importantes del mundo anegada por el agua.",
+      "descripcion": "Kim Stanley Robinson dibuja el futuro de una de las ciudades más importantes del mundo anegada por el agua.",
+      "img": "img//2140.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "La Guerra de los mundos",
+      "autor": "Herbet George Wells",
+      "editorial": "Alianza",
+      "shortdescrip": "Relato trepidante que narra la invasión de la Tierra por los marcianos y que supuso por primera vez la irrupción de seres de otros planetas en el nuestro,",
+      "descripcion": "Relato trepidante que narra la invasión de la Tierra por los marcianos y que supuso por primera vez la irrupción de seres de otros planetas en el nuestro, marcó en buena medida la fantasía del siglo xx y abrió un filón –el del contacto de los hombres con seres extraterrestres– que no tardó en convertirse en uno de los más importantes de la ciencia ficción, sirviendo de inspiración a numerosos artistas posteriores en los ámbitos de la radio, el cine, la literatura, el cómic y la televisión.",
+      "img": "img//mundos.jpeg"
+    },
+    {
+      "id": "6",
+      "titulo": "El apetito de Pulgasari",
+      "autor": "Mario Acuña Santaniello",
+      "editorial": "Booket",
+      "shortdescrip": "Hay una bestia que todo lo engulle, todo lo arrasa: «Mi padre vino a ser la última víctima del apetito voraz de Pulgasari»",
+      "descripcion": "Lenin Ramos ha vuelto a la patria, a la geográfica y a la Mario Acuña Santaniello más íntima, de la que lo desterraron los afectos perdidos, la traición y el desencanto. Los militares, nuevos amos del poder, lo han traído a los funerales de su padre, un importante historiador relacionado con el chavismo cuya muerte a manos del hampa común no ha quedado del todo resuelta y se ha llevado consigo una verdad que Hugo Chávez había puesto en sus manos. Lenin ha vuelto a un país que retrocede irremediablemente, pero volver requiere libertad, aunque esta sea una luz enceguecedora. En este viaje al pasado, el protagonista reencuentra sus culpas, su dolor y sus dibujos de Pulgasari, ese Godzilla proletario que retrata su nostalgia y que reaparece en hojas sueltas en la casa de su infancia.",
+      "img": "img//pulgar.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "El señor de la guerra",
+      "autor": "Dan Abnett",
+      "editorial": "Minotauro",
+      "shortdescrip": "Tras el éxito de su desesperada misión en Salvation’s Reach, el coronel comisario Gaunt y el Primero de Tanith se dirigen al mundo forja de Urdesh, de una importancia estratégica vital.",
+      "descripcion": "Tras el éxito de su desesperada misión en Salvation’s Reach, el coronel comisario Gaunt y el Primero de Tanith se dirigen al mundo forja de Urdesh, de una importancia estratégica vital y que se halla asediado por los brutales ejércitos del Anarca Sek. Sin embargo, puede que esté en juego algo más que el propio planeta. Las fuerzas imperiales han intentado dividir y vencer al enemigo, pero con el propio señor de la guerra Macaroth en persona al mando de la campaña de Urdesh, es posible que el ataque del Archienemigo tenga un propósito diferente: decapitar la estructura de mando imperial de un solo tajo. ¿Acaso el señor de la guerra se ha convertido por descuido en un objetivo? ¿Y podrán los Fantasmas de Gaunt defenderlo frente a la fuerza de asesinos y máquinas de guerra del Caos allí concentrada? ",
+      "img": "img//srguerra.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "Kalpa Imperial",
+      "autor": "Angélica Gorodischer",
+      "editorial": "Emecé Editores",
+      "shortdescrip": "Kalpa imperial reúne once relatos, once fragmentos de la historia del Imperio Más Vasto que Nunca Existió.",
+      "descripcion": "Kalpa imperial reúne once relatos, once fragmentos de la historia del Imperio Más Vasto que Nunca Existió. Por el narrador sabemos que el Imperio fue destruido y reconstruido infinidad de veces y que su historia vuelve a empezar con cada nueva dinastía de emperadores y emperatrices. El escenario es siempre el mismo: el montañoso norte, el sur selvático y las ciudades capitales. Las historias son múltiples y diversas. Como la de Bib, el chico esmirriado que pretende refundar el Imperio e inventar un nuevo orden; la del último príncipe de la dinastía de los Orioles y su extraña muerte; la de la huérfana que asciende desde los bajos fondos hasta el trono; la del Emperador Cuarto en las dinastía de los Kiautonor, que manda a construir una ciudad en honor de su amante.",
+      "img": "img//imperial.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "Aurora",
+      "autor": "Kim Stanley Robinson",
+      "editorial": "Booket",
+      "shortdescrip": "Una nave preparada para contener a varias generaciones de tripulantes viaja fuera del sistema solar por primera vez en la historia de la humanidad.",
+      "descripcion": "Una nave preparada para contener a varias generaciones de tripulantes viaja fuera del sistema solar por primera vez en la historia de la humanidad. Su destino es un planeta en el sistema Tau Ceti, a doce años luz, llamado Aurora en honor de la diosa romana del amanecer. Pero ¿será realmente este viaje un nuevo comienzo para la humanidad o nuestro fin?",
+      "img": "img//aurora.jpg"
+    },
+    {
+      "id": "10",
+      "titulo": "La nave eterna",
+      "autor": "Francesca Haig",
+      "editorial": "Minotauro",
+      "shortdescrip": "Hace cuatrocientos años, una explosión nuclear asoló la Tierra. Ahora, la lluvia radiactiva ha cesado y la civilización humana se recupera.",
+      "descripcion": "Hace cuatrocientos años, una explosión nuclear asoló la Tierra. Ahora, la lluvia radiactiva ha cesado y la civilización humana se recupera, pero por alguna desconocida razón todos los alumbramientos son de gemelos. En cada uno nace un alfa, físicamente perfecto, y un omega, marcado con alguna deformidad. Por mandato del Consejo, los omegas viven marginados en asentamientos aislados, mientras que los alfas se benefician en el reparto de los recursos. Sin embargo, a pesar de su proclamada superioridad, los alfas no pueden escapar a su destino: cuando un gemelo muere, también lo hace el otro.  Cass y Zach son dos gemelos físicamente perfectos; no tienen ninguna deformidad aparente. Pero Cass tiene un secreto y Zach no descansará hasta sacarlo a la luz. Ambos tienen en sus manos el poder para cambiar el mundo, pero uno deberá vencer al otro para ver su visión del futuro convertida en realidad. Si no tienen cuidado, los dos podrían morir en su lucha por el poder.",
+      "img": "img//eterna.jpg"
+    },
+    {
+      "id": "11",
+      "titulo": "Las Hijas de Tara",
+      "autor": "Laura Gallego",
+      "editorial": "Minotauro",
+      "shortdescrip": "Bienvenidos a un mundo futuro en el que tecnología y naturaleza son enemigas irreconciliables y se ha desatado una interminable guerra entre la ciencia y la magia.",
+      "descripcion": "Bienvenidos a un mundo futuro en el que tecnología y naturaleza son enemigas irreconciliables y se ha desatado una interminable guerra entre la ciencia y la magia, entre lo artificial y lo natural. El primer bando se refugia en las dumas, ciudades que han alcanzado un altísimo nivel tecnológico. El bando contrario se oculta en Mannawinard, un gigantesco bosque en el que ha vuelto a brotar la magia, bajo los auspicios de la renacida diosa Tara. Entre ambos se extienden los sombríos Páramos, zonas baldías que sirven de frontera guardada por los guerreros Ruadh. En este contexto Kim, una audaz mercenaria, recibe el encargo de robar un androide de la poderosa compañía Nemetech; pero las cosas no salen como había planeado en un principio, y pronto se verá obligada a escapar de las dumas para salvar su vida. En su camino se unirá por necesidad a Keyko, una guerrera de la Orden Mística de las Hijas de Tara, y conocerá a otros personajes que sobreviven como pueden en medio del caos. Este viaje llevará a Kim y sus compañeros a través de los Páramos y Mannawinard hasta el mismo corazón del mundo natural, en busca de respuestas sobre los titánicos poderes enfrentados que dominan sus destinos.",
+      "img": "img//tara.jpg"
+    },
+    {
+      "id": "12",
+      "titulo": "La humanidad dividida",
+      "autor": "John Scalzi",
+      "editorial": "Minotauro",
+      "shortdescrip": "El teniente Harry Wilson tiene una misión imposible: ayudar a proteger la unión de las colonias humanas ante una terrible revelación",
+      "descripcion": "El teniente Harry Wilson tiene una misión imposible: ayudar a proteger la unión de las colonias humanas ante una terrible revelación. Conseguir la supervivencia de la Unión Colonial requerirá toda la astucia política y sutileza que sus diplomáticos sean capaces de reunir. En paralelo, Harry y sus chicos formarán un «Equipo B» encargado de enfrentarse a lo inesperado…",
+      "img": "img//divida.jpg"
+    },
+    {
+      "id": "13",
+      "titulo": "Nieve en Marte",
+      "autor": "Pablo Tébar Goyanes",
+      "editorial": "Minotauro",
+      "shortdescrip": "«Bienvenidos a Marte». Esto es lo primero que escucha León Miranda, un experto en lenguas muertas, cuando aterriza en el que hace muchos años fue el Planeta Rojo.",
+      "descripcion": "«Bienvenidos a Marte». Esto es lo primero que escucha León Miranda, un experto en lenguas muertas, cuando aterriza en el que hace muchos años fue el Planeta Rojo. Ha tenido que dejar atrás a su mujer y a su hijo por un misterioso trabajo del que no le han contado nada. Mientras, en la Tierra los años están contados y los humanos se preparan para una gran evacuación. Un asesino en serie, una inspectora de policía, un narcotraficante, una niña que vive entre los despojos de un mundo agónico… Nieve en Marte es una novela a caballo entre el thriller y la ciencia ficción en un futuro que no es tan diferente del nuestro.",
+      "img": "img//nieve.jpg"
+    },
+    {
+      "id": "14",
+      "titulo": "¿Sueñan los androides con ovejas eléctricas?",
+      "autor": "Philip K. Dick",
+      "editorial": "Minotauro",
+      "shortdescrip": "En el año 2021 la guerra mundial ha exterminado a millones de personas. Los supervivientes codician cualquier criatura viva.",
+      "descripcion": "En el año 2021 la guerra mundial ha exterminado a millones de personas. Los supervivientes codician cualquier criatura viva, y aquellos que no pueden permitirse pagar por ellas se ven obligados a adquirir réplicas increíblemente realistas. Las empresas fabrican incluso seres humanos. Rick Deckard es un cazarrecompensas cuyo trabajo es encontrar androides rebeldes y retirarlos, pero la tarea no será tan sencilla cuando tenga que enfrentarse a los nuevos modelos Nexus-6, prácticamente indistinguibles de los seres humanos.",
+      "img": "img//androide.jpg"
+    },
+    {
+      "id": "15",
+      "titulo": "Los jugadores de Titán",
+      "autor": "Philip K. Dick",
+      "editorial": "Minotauro",
+      "shortdescrip": "Tras perder la guerra contra Titán, la Tierra quedó cubierta de radiación y la mayor parte de la población superviviente es estéril.",
+      "descripcion": "Tras perder la guerra contra Titán, la Tierra quedó cubierta de radiación y la mayor parte de la población superviviente es estéril. Las babosas alienígenas que gobiernan el planeta obligan a dichos supervivientes a participar en un juego complejo e interminable en el que se apuestan dos activos muy importantes: tierras y esposas. Pete Garden acaba de perder a su esposa y el territorio de Berkeley, en California, pero tiene un plan para recuperarlo todo.",
+      "img": "img//jugadores.jpg"
+    }
+  ]

@@ -1,0 +1,23 @@
+<div class="row container">
+    <select  [(ngModel)]="orderby" class="custom-select w-auto" id="">
+        <option value="titulo">Titulo</option>
+        <option value="editorial">Editorial</option>
+    </select>
+    <input type="text" id="Search" class="ml-auto mr-0 form-control w-auto" placeholder="Buscar" [(ngModel)]="searchterm" />
+</div>
+
+<!-- FilterBy:searchterm -->
+<div class="row mt-3 d-flex justify-content-center" >
+    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 ArticuloDiv" *ngFor="let Libro of Libros | FilterBy:searchterm | OrderBy:orderby">
+        <div class="img">
+            <img src="./../../assets/{{Libro.img}}" class="ProductoImg float-left img-fluid"/></div>
+        <div id="Price" >Recomendado</div>
+        <br />
+        <p id="Tipe" class="text-center m-0">{{Libro.titulo}}</p>
+        <p class="text-muted text-center">{{Libro.autor}}</p>
+        <p class="text-muted text-center">{{Libro.editorial}}</p>
+        <p class="text-muted text-center">{{Libro.shortdescrip}}</p>
+        <div class="m-0 p-0 text-center mt-lg-5"><button  class="btn btn-white shadow-none p-0 m-0"><a   id="{{Libro.titulo}}" (click)="MostrarData($event)" class="grey-text Link"><i class="fas fa-bookmark"></i> Ver mas</a></button></div>
+    </div>
+</div>
+   

@@ -1,0 +1,38 @@
+<button class=" ml-auto mr-0 d-block btn btn-danger" id="BtnBack" (click)="volver()"><i class="fas fa-arrow-left"></i> Volver</button>
+
+<div class="row mt-3 mb-5 d-flex justify-content-center pl-5 pr-5" *ngFor="let Libro of Libros | FilterBy:param">
+    <div class="col-xl-4 col-lg-4 col-md-5 col-sm-12 col-xs-12 p-0" >
+                <img src="./../../assets/{{Libro.img}}" class="ProductoImg img-fluid"/>
+        </div>
+    <div class="col-xl-6 col-lg-8 col-md-7 col-sm-12 col-xs-12 p-0">
+        <div class="Price">Recomendado</div>
+        <br />
+        <p id="Tipe" class="text-center m-0">{{Libro.titulo}}</p>
+        <p class="text-muted text-center">{{Libro.autor}}</p>
+        <p class="text-muted text-center">{{Libro.editorial}}</p>
+        <p class="text-muted text-center">{{Libro.descripcion}}</p>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<!--<div class="row mt-3" >
+    <div class="col-xl-10 col-lg-10 col-md-10 col-sm-10 ArticuloDiv mr-auto ml-auto" *ngFor="let Libro of Libros | FilterBy:param">
+        <div class="row">
+            <img src="./../../assets/{{Libro.img}}" class="ProductoImg float-left img-fluid"/></div>
+        <div id="Price" class="w-75">Recomendado</div>
+        <br />
+        <p id="Tipe" class="text-center m-0">{{Libro.titulo}}</p>
+        <p class="text-muted text-center">{{Libro.autor}}</p>
+        <p class="text-muted text-center">{{Libro.editorial}}</p>
+        <p class="text-muted text-center">{{Libro.descripcion}}</p>
+    </div>
+</div>
+
+-->
